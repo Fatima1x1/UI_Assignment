@@ -3,6 +3,9 @@
     
 }
 .container{
+    max-width:90%;
+ }
+.container{
     margin: 0 auto;
  }
 .my-container{
