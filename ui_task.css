@@ -3,11 +3,7 @@
     
 }
 .container{
-<<<<<<< HEAD
-    max-width:90%;
-=======
     max-width:95%;
->>>>>>> 3d9bea9 (fifth)
  }
 .container{
     margin: 0 auto;
@@ -27,11 +23,7 @@
     margin:auto;
 }
 .py-6 {
-<<<<<<< HEAD
-    padding-top: 14rem !important;
-=======
     padding-top: 12rem !important;
->>>>>>> 3d9bea9 (fifth)
     padding-left: 2rem !important;
    }
 #container-5{
@@ -47,12 +39,6 @@
 }
 #footer-icon{
     margin:0 auto;
-<<<<<<< HEAD
-    text-align: center;
-    
- }
-
-=======
     text-align: right;
     
  }
@@ -62,14 +48,11 @@
     padding-right: 0px !important;
 }
 
->>>>>>> 3d9bea9 (fifth)
  .ftr-content{
         width: 30%;
         display: flex;
         justify-content: space-evenly;
  }
-<<<<<<< HEAD
-=======
  .footer-copyright{
     color: darkgray;
     display: block;
@@ -93,14 +76,11 @@
 padding-left: 0 !important;
 padding-right: 0 !important;
  }
->>>>>>> 3d9bea9 (fifth)
 @media (max-width: 500px) {
     .ftr-content{
         width: 100%;
         justify-content: space-between;
     }
-<<<<<<< HEAD
-=======
     .footer-last-buttons{
         flex-direction: row;
         text-align: right;
@@ -114,17 +94,13 @@ padding-right: 0 !important;
         text-align: left;
     }
 
->>>>>>> 3d9bea9 (fifth)
     #first-col {
       order: 2;
       margin:auto;
     }
     #footer-text{
         text-align: center;
-<<<<<<< HEAD
-=======
         padding: 20px;
->>>>>>> 3d9bea9 (fifth)
     }
   
     #second-col {
